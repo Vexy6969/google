@@ -1,0 +1,106 @@
+#container{
+	
+}
+
+
+#linkovi{
+	margin:20px;
+	text-align: right;
+
+}
+
+a{
+	text-decoration-line: none;
+	color:black;
+	margin-right: 10px;
+}
+
+#slika{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    margin-top: 200px;
+
+}
+
+#search{
+
+	margin-left: auto;
+    margin-right: auto;
+    width: 560px;
+
+}
+
+.input{
+	font-size: 30px;
+	padding: 5px;
+	width: 300px;
+
+}
+
+.input-text{
+
+	font-size: 15px;
+	height: 30px;
+	width: 500px;
+
+}
+
+#linkovi2{
+
+    width: 200px;
+
+}
+
+.gumb1,.gumb2{
+	width: 150px;
+	float: left;
+}
+
+table{
+	margin-left: 775px;
+	float: left;
+	margin-top: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#bcc0bd;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.lijevi{
+	padding-left: 15px;
+	float: left;
+}
+
+.desni{
+	padding-right: 15px;
+	float: right;
+}
+
+#foooter{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#bcc0bd;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+}
+
+.lijevii{
+	padding-left: 15px;
+	float: left;
+}

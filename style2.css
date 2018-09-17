@@ -1,0 +1,75 @@
+
+#container{
+	margin-top: 200px;
+	margin-left: 700px;
+	margin-right: 700px;
+
+}
+
+.slika{
+
+    display: block;
+    margin-left: 205px;
+    margin-right: 100px;
+
+
+}
+
+a{
+	text-decoration-line: none;
+	margin-right: 10px;
+	color:#3385ff;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+h1{
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+}
+
+.input{
+	font-size: 30px;
+	padding: 5px;
+	width: 200px;
+}
+
+.password{
+	font-size: 30px;
+	padding: 5px;
+	width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.lijevi{
+	padding-left: 15px;
+	float: left;
+}
+
+.desni{
+	padding-right: 15px;
+	float: right;
+}
